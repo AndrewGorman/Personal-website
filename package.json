@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "three": "^0.122.0",
+    "three": "^0.125.0",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/pro-light-svg-icons": "^5.13.0",
